@@ -29,7 +29,7 @@ Can | you | make | tables?
 --- | --- | ---- | -------
 yes | no | maybe | don't know
 
-![Nothing on the internet is complete without cats!](cat.jpg)
+![Nothing on the internet is complete without cats](cat.jpg)
 
 <!-- This is a comment. -->
 <!-- :tag1: -->
