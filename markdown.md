@@ -26,5 +26,5 @@ public void main() {
 ... although org mode, of course, can also execute code. emacs wins again.
 
 Can | you | make | tables?
-- | - | - | -
+--- | --- | ---- | -------
 yes | no | maybe | don't know
