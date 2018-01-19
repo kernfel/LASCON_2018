@@ -28,3 +28,5 @@ public void main() {
 Can | you | make | tables?
 --- | --- | ---- | -------
 yes | no | maybe | don't know
+
+[Nothing on the internet is complete without cats!](cat.jpg)
