@@ -14,4 +14,4 @@ You can even [link to Lascon's program!](http://sisne.org/lascon-vii/program/?la
 
 > This is a blockquote.
 > It appears in github with a grey background!
-
+> Line breaks, apparently, are not retained.
