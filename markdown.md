@@ -18,3 +18,9 @@ You can even [link to Lascon's program!](http://sisne.org/lascon-vii/program/?la
 
 `of course, there's code formatting. Monospace ftw!`
 
+```C++
+public void main() {
+	std::cout << "There's even syntax highlighting!" << std::endl;
+}
+```
+
