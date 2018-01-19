@@ -34,3 +34,5 @@ yes | no | maybe | don't know
 <!-- This is a comment. -->
 <!-- :tag1: -->
 
+But where's the image caption?
+
