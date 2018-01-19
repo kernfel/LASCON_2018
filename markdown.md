@@ -23,4 +23,4 @@ public void main() {
 	std::cout << "There's even syntax highlighting!" << std::endl;
 }
 ```
-
+... although org mode, of course, can also execute code. emacs wins again.
